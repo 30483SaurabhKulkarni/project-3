@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    background-color: oldlace;
+}
+#nav1{
+    display: flex;
+    justify-content: space-evenly;    
+
+}
+#nav2{
+    display: flex;
+}
